@@ -17,7 +17,7 @@
 **Given** neque porro quisquam est qui dolorem ipsum quia dolor sit amet  
 **When** consectetur adipisci velit sed quia non numquam eius modi tempora  
 **Then** incidunt ut labore et dolore magnam aliquam quaerat voluptatem  
-**And** ut enim ad minima veniam quis nostrum exercitationem ullam corporis
+**And** ut enim ad minima veniam quis nostrum exercitationem ullam corporisudis
 
 ### AC4: Quis Autem Vel Eum Iure
 **Given** quis autem vel eum iure reprehenderit qui in ea voluptate velit  
